@@ -3,12 +3,10 @@ class Clase:
         self.nombre = nombre
         self.nota = nota
     def Promedio(self):
-        print(self.nombre, self.nota)
-
         if self.nota >= 4.5:
-            print("Ha Aprobado ")
+            print("La alumna ", self.nombre, "ha aprobado con la nota: ", self.nota)
         else:
-            print("Ha Reprobado ")
-c = Clase("Kata_la_Ow0", 3.9)
+            print("La alumna ", self.nombre, "Ha reprobado con la nota: ", self.nota)
+c = Clase("Kata_la_Ow0", 5.9)
 c.Promedio()
 
