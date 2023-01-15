@@ -6,7 +6,7 @@
 # para buscar palabras = variable.find('texto')
 # convertir una cadena en una lista = variable.split()
 # pasar de lista a cadena = ''.join(nombre de lista)
-# 
+# para contar las letras en un string se utiliza: .count("letra")
 #
 #
 #
