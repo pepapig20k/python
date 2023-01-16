@@ -7,7 +7,8 @@
 # convertir una cadena en una lista = variable.split()
 # pasar de lista a cadena = ''.join(nombre de lista)
 # para contar las letras en un string se utiliza: .count("letra")
-#
+# La función split() en Python es un método de cadena que se utiliza para dividir una cadena en una lista de subcadenas: variable.split()
+# La función set() en Python se utiliza para crear un conjunto, que es una colección no ordenada e inmutable de elementos únicos.: variable = set([elementos])
 #
 #
 #
